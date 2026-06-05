@@ -1,20 +1,7 @@
 {
-  "questions": [
-    {
-      "question": "Hi",
-      "answer": "Hi, what can I help you with?"
-    },
-    {
-      "question": "BSO duty phone",
-      "answer": "BSO Office #: 740-593-1951"
-    },
-    {
-      "question": "BSO office number",
-      "answer": "BSO Office #: 740-593-1951"
-    },
-    {
-      "question": "What is the BSO duty phone?",
-      "answer": "BSO Office #: 740-593-1951"
-    }
-  ]
+  "keywords": [
+      "office",
+      "duty phone"
+  ],
+  "answer": "BSO Office #: 740-593-1951"
 }
