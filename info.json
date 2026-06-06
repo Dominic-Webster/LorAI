@@ -37,7 +37,7 @@
       "answer": "BSO Email: orientation@ohio.edu"
     },
     {
-      "keywords": ["belonging locations", "belonging"],
+      "keywords": ["belonging locations", "belonging", "belong"],
       "answer": "BELONGING LOCATIONS:\nBlue: Ellis 013 & 014\nGray: Tupper 204\nGreen: RTV 267\nLime: Ellis 103 & 106\nOrange: Tupper 304\nPink: RTV 281\nPurple: Ellis 114 & 115\nRed: RTV 265\nTeal: Tupper 104\nYellow: Tupper 107"
     },
     {
@@ -101,7 +101,7 @@
       "answer": "COMMUNICATIONS (C)\n - Succeeding: Schoonover 145\n - Academic Essentials: Ellis 012, 013, 014, 015, & 019\n - Advising: Ellis 012, 013, 014, 015, & 019"
     },
     {
-      "keywords": ["d", "where is d", "education", "where is education", "d advising", "education advising", "d succeeding", "education succeeding"],
+      "keywords": ["d", "ed", "where is d", "education", "where is education", "d advising", "education advising", "d succeeding", "education succeeding"],
       "answer": "EDUCATION (D)\n - Succeeding: Patton 105\n - Academic Essentials: Patton 105\n - Advising: Tupper 002 & 005"
     },
     {
@@ -109,11 +109,11 @@
       "answer": "ENGINEERING (E)\n - Succeeding: ARC 102\n - Academic Essentials: ARC 101, 102, 106, 121, 140, & 159\n - Advising: Ellis 103, 106, 107, & 108"
     },
     {
-      "keywords": ["f", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising", "f succeeding", "cofa succeeding", "fine arts succeeding"],
+      "keywords": ["f", "farts", "where is f", "fine arts", "cofa", "where is fine arts", "where is cofa", "f advising", "fine arts advising", "cofa advising", "f succeeding", "cofa succeeding", "fine arts succeeding"],
       "answer": "FINE ARTS (F)\n - Succeeding: Schoonover 145\n - Academic Essentials: Ellis 003, 006, 007, 008, & 009\n - Advising: Ellis 003, 006, 007, 008, & 009"
     },
     {
-      "keywords": ["g", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising", "g succeeding", "htc succeeding"],
+      "keywords": ["g", "honors", "where is g", "htc", "honors tutorial college", "where is htc", "g advising", "htc advising", "g succeeding", "htc succeeding"],
       "answer": "HONORS TUTORIAL COLLEGE (G)\n - Succeeding: Gordy 311\n - Academic Essentials: Gordy 311\n - Advising: Gordy 104, 109, 110, 111, & 203"
     },
     {
@@ -173,7 +173,7 @@
       "answer": "ACADEMIC ESSENTIALS LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Copeland 104\nComms (C): Ellis 0th floor\nEducation (D): Patton 105\nEngineering (E): ARC 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 311\nHealth Sciences & Proffesions (H): Walter 135\nUniversity College (J): Tupper 1st floor"
     },
     {
-      "keywords": ["paying for college", "when is paying for college", "where is paying for college"],
+      "keywords": ["paying", "paying for college", "when is paying for college", "where is paying for college"],
       "answer": "Paying for College is on Day 2 from 1:10 to 1:50 in Memorial Auditorium"
     },
     {
@@ -229,6 +229,10 @@
       "answer": "Dinner takes place on Day 1 at Nelson, 5:20 - 6:30"
     },
     {
+      "keywords": ["rufus", "when is rufus rumble"],
+      "answer": "Rufus Rumble takes place on Day 1 at Morton, 7:25 - 8:30"
+    },
+    {
       "keywords": ["academic essentials time", "when is academic essentials"],
       "answer": "Academic Essentials takes place on Day 2 from 9:35 to 11:05"
     },
@@ -237,12 +241,20 @@
       "answer": "Succeeding takes place on Day 2 from 8:25 to 9:25"
     },
     {
-      "keywords": ["owning time", "when is owning"],
+      "keywords": ["owning time", "when is owning", "own", "owning"],
       "answer": "Owning takes place on Day 2 from 11:05 to 11:45"
     },
     {
       "keywords": ["advising time", "when is advising"],
       "answer": "Advising takes place on Day 2 starting at 1:50"
+    },
+    {
+      "keywords": ["thriving", "thriv", "thriving time", "when is thriving", "where is thriving"],
+      "answer": "Thriving takes place on Day 1 in Morton 201, from 6:40 to 7:15"
+    },
+    {
+      "keywords": ["bso blast"],
+      "answer": "BSO Blast takes place on Day 1, from 8:30 to 10:00"
     },
     {
       "keywords": ["slate", "slate link", "how do I get on slate"],
