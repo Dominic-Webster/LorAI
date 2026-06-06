@@ -155,6 +155,22 @@
     {
       "keywords": ["succeeding locations"],
       "answer": "SUCCEEDING LOCATIONS:\nArts & Science (A): Clippinger 194\nBusiness (B): Copeland 104\nComms (C): Schoonover 145\nEducation (D): Patton 105\nEngineering (E): ARC 102\nFine Arts (F): Schoonover 145\nHTC (G): Gordy 311\nHealth Sciences & Proffesions (H): Walter 135\nUniversity College (J): Schoonover 145"
+    },
+    {
+      "keywords": ["academic essentials locations", "academic essentials"],
+      "answer": "ACADEMIC ESSENTIALS LOCATIONS:\nArts & Science (A): Gordy 2nd floor\nBusiness (B): Copeland 104\nComms (C): Ellis 0th floor\nEducation (D): Patton 105\nEngineering (E): ARC 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 311\nHealth Sciences & Proffesions (H): Walter 135\nUniversity College (J): Tupper 1st floor"
+    },
+    {
+      "keywords": ["paying for college", "when is paying for college", "where is paying for college"],
+      "answer": "Paying for College is on Day 2 from 1:10 to 1:50 in Memorial Auditorium"
+    },
+    {
+      "keywords": ["welcome", "when is welcome", "where is welcome"],
+      "answer": "BSO Welcome and Program Overview is on Day 1 from 1:00 to 1:50 in Memorial Auditorium"
+    },
+    {
+      "keywords": ["when is belonging", "belonging time"],
+      "answer": "Belonging takes place Day 1 from 1:50 to 3:35"
     }
   ]
 }
