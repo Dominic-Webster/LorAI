@@ -60,24 +60,40 @@ async function loadKnowledge() {
 function findAnswer(userInput) {
     if (!userInput) return "Sorry, I don't know that answer.";
 
-    userInput = userInput.toLowerCase();
+    userInput = userInput.toLowerCase().trim();
+    let bestAnswer = null;
+    let bestScore = 0;
 
     for (const item of knowledgeBase) {
-        if (item && item.question) {
-            const q = item.question.toLowerCase();
+        if (!item || !item.question) continue;
 
-            // direct substring in either direction
-            if (userInput.includes(q) || q.includes(userInput)) return item.answer;
+        const q = item.question.toLowerCase().trim();
+        let score = 0;
 
-            // simple word-overlap: count user words (len>2) that appear in stored question
+        // direct exact or phrase containment gets the strongest score
+        if (userInput === q) {
+            score = 1000 + q.length;
+        } else if (userInput.includes(q)) {
+            score = 800 + q.length;
+        } else if (q.includes(userInput)) {
+            score = 600 + userInput.length;
+        } else {
+            // simple word-overlap: count user words that appear in the stored question
             const userWords = userInput.split(/\s+/).filter(w => w.length > 2);
             let matchCount = 0;
             for (const w of userWords) if (q.includes(w)) matchCount++;
-            if (matchCount >= 1) return item.answer;
+            if (matchCount > 0) {
+                score = 100 + matchCount * 10 + q.length;
+            }
+        }
+
+        if (score > bestScore) {
+            bestScore = score;
+            bestAnswer = item.answer;
         }
     }
 
-    return "Sorry, I don't know that answer.";
+    return bestAnswer ?? "Sorry, I don't know that answer.";
 }
 
 if (sendBtn) sendBtn.addEventListener("click", sendMessage);

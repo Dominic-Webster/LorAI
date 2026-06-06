@@ -21,12 +21,60 @@
       "answer": "BSO Email: orientation@ohio.edu"
     },
     {
-      "keywords": ["belonging locations"],
-      "answer": "Blue: Ellis 013 & 014\nGray: Tupper 204\nGreen: RTV 267\nLime: Ellis 103 & 106\nOrange: Tupper 304\nPink: RTV 281\nPurple: Ellis 114 & 115\nRed: RTV 265\nTeal: Tupper 104\nYellow: Tupper 107"
+      "keywords": ["belonging locations", "belonging"],
+      "answer": "BELONGING LOCATIONS:\nBlue: Ellis 013 & 014\nGray: Tupper 204\nGreen: RTV 267\nLime: Ellis 103 & 106\nOrange: Tupper 304\nPink: RTV 281\nPurple: Ellis 114 & 115\nRed: RTV 265\nTeal: Tupper 104\nYellow: Tupper 107"
+    },
+    {
+      "keywords": ["rufus rumble locations", "rufus rumble"],
+      "answer": "RUFUS RUMBLE LOCATIONS:\nBlue: Morton 115\nGray: Morton 215\nGreen: Morton 222\nLime: Morton 122\nOrange: Morton 218\nPink: Morton 226\nPurple: Morton 126\nRed: Morton 219\nTeal: Morton 227\nYellow: Morton 127"
+    },
+    {
+      "keywords": ["blue", "blue belonging", "blue rufus rumble"],
+      "answer": "Blue group has belonging in Ellis 013 and 014, and Rufus Rumble in Morton 115"
+    },
+    {
+      "keywords": ["gray", "gray belonging", "gray rufus rumble"],
+      "answer": "Gray group has belonging in Tupper 204, and Rufus Rumble in Morton 215"
+    },
+    {
+      "keywords": ["green", "green belonging", "green rufus rumble"],
+      "answer": "Green group has belonging in RTV 267, and Rufus Rumble in Morton 222"
+    },
+    {
+      "keywords": ["lime", "lime belonging", "lime rufus rumble"],
+      "answer": "Lime group has belonging in Ellis 10 and 104, and Rufus Rumble in Morton 122"
+    },
+    {
+      "keywords": ["orange", "orange belonging", "orange rufus rumble"],
+      "answer": "Orange group has belonging in Tupper 304, and Rufus Rumble in Morton 218"
+    },
+    {
+      "keywords": ["pink", "pink belonging", "pink rufus rumble"],
+      "answer": "Pink group has belonging in RTV 281, and Rufus Rumble in Morton 226"
+    },
+    {
+      "keywords": ["purple", "purple belonging", "purple rufus rumble"],
+      "answer": "Purple group has belonging in Ellis 114 and 115, and Rufus Rumble in Morton 126"
+    },
+    {
+      "keywords": ["red", "red belonging", "red rufus rumble"],
+      "answer": "Red group has belonging in RTV 265, and Rufus Rumble in Morton 219"
+    },
+    {
+      "keywords": ["teal", "teal belonging", "teal rufus rumble"],
+      "answer": "Teal group has belonging in Tupper 104, and Rufus Rumble in Morton 227"
+    },
+    {
+      "keywords": ["yellow", "yellow belonging", "yellow rufus rumble"],
+      "answer": "Yellow group has belonging in Tupper 107, and Rufus Rumble in Morton 127"
     },
     {
       "keywords": ["advising locations"],
       "answer": "Arts & Science (A): Gordy 2nd floor\nBusiness (B): Tupper 3rd floor\nComms (C): Ellis 0th floor\nEducation (D): Tupper 0th floor\nEngineering (E): Ellis 1st floor\nFine Arts (F): Ellis 0th floor\nHTC (G): Gordy 1st floor\nHealth Sciences & Proffesions (H): Ellis 1st floor\nUniversity College (J): Tupper 1st floor"
+    },
+    {
+      "keywords": ["signs after belonging", "signs at breakout"],
+      "answer": "All color group signs go to Morton 122 after belonging"
     }
   ]
 }
