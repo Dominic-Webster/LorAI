@@ -213,7 +213,7 @@
       "answer": "The Holistic Support breakout session takes place both times in Morton 237\nThis session will introduce a variety of support services, including student accomodations, peer connected programming, well-being coaching, and student health services"
     },
     {
-      "keywords": ["commuter student experience", "where is commuter student experience", "what is commuter student experienceholistic support"],
+      "keywords": ["commuter", "commuting", "commuter student experience", "where is commuter student experience", "what is commuter student experienceholistic support"],
       "answer": "The Commuter Student Experience breakout session takes place during session 1 in Morton 127\nThis session explores commuter-specific resources, as well as commuter programming, outreach events, and student employement opportunities on campus"
     },
     {
@@ -223,6 +223,10 @@
     {
       "keywords": ["breakout", "breakout sessions"],
       "answer": "BREAKOUT SESSIONS:\nLiving on Campus (3:50-4:30, 4:40-5:20): Morton 201\nGetting Involved (3:50-4:30, 4:40-5:20): Morton 235\nBeyond Books & Tutoring (3:50-4:30, 4:40-5:20): Morton 115\nHolistic Support (3:50-4:30, 4:40-5:20): Morton 237\nCommuter Student Experience (3:50-4:30): Morton 127\nOHIO Honors Program (4:40-5:20): Morton 127"
+    },
+    {
+      "keywords": ["placement testing"],
+      "answer": "Placement testing is available in Morton 122 during breakout sessions"
     },
     {
       "keywords": ["dinner", "when is dinner", "din"],
@@ -257,8 +261,16 @@
       "answer": "BSO Blast takes place on Day 1, from 8:30 to 10:00"
     },
     {
+      "keywords": ["academic college sessions", "family college", "guest college"],
+      "answer": "ACADEMIC COLLEGE SESSIONS FOR FAMILY/GUESTS:\n - A: Morton 201\n - B: Morton 235\n - C: Morton 127\n - D: Morton 122\n - E: Morton 218\n - E4 & E5 (Aviation): Morton 219\n - F: Morton 215\n - G: Morton 115\n - H: Morton 237\n - J: Morton 227"
+    },
+    {
       "keywords": ["slate", "slate link", "how do I get on slate"],
       "answer": "The link to Slate is: https://enroll.ohio.edu/manage/ \n - Click 'Events' tab at the top\n - Select BSO event for today\n - Click 'Launch Registration'"
+    },
+    {
+      "keywords": ["family and guest schedule", "family", "guest"],
+      "answer": "FAMILY AND GUEST SCHEDULE:\n DAY 1:\n - BSO Welcome: 1:00-1:50 at Memorial Auditorium\n - Helping your Student Thrive: 2:05-2:30 at Memorial Auditorium\n - Campus Safety and Support Panel: 2:30-3:05 at Memorial Auditorium\n - Understanding FERPA: 3:15-3:30 at Memorial Auditorium\n - Breakout Sessions: 3:50-5:20 at Morton Hall\n - Dinner: 5:20-6:30 at Nelson\n - Dessert Reception: 6:30-7:30 at 29 Park Place\n - Family Programming: 8:00 at Lincoln Hall\n\n DAY 2:\n - Move-Out: 6:30-8:00\n - Breakfast: 7:00-8:15 at Nelson\n - Academic College Sessions: 8:30-9:20 at various locations\n - What Does OHIO Have to Offer: 9:40-10:20 at Memorial Auditorium\n - WIWMFK: 10:20-10:50 at Memorial Auditorium\n - Family to Family: 10:55-11:40 at Memorial Auditorium\n - Lunch: 11:40-12:55 at Nelson\n - Paying For College: 1:10-1:50 at Memorial Auditorium\n - Next Steps Panel: 2:00-2:30 at Memorial Auditorium\n - Beyond BSO: 2:30-3:00 at Memorial Auditorium"
     }
   ]
 }
